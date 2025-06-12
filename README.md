@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **[mention project or interest area]**
 - 🌱 I’m currently learning **Advanced SQL | Deep Learning | Big Data Tools**
 - 👯 I’m open to collaborating on **Data Analytics, Dashboards, and ML projects**
-- 📫 Reach me: **[your email]** | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 Reach me: **[aboluwadegbenga@gmail.com]** | [LinkedIn](https://linkedin.com/in/gbemeegar)
 
 ---
 
@@ -25,6 +25,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
@@ -58,7 +59,7 @@
 
 ### 🤝 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gbemeegar)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com)
 
