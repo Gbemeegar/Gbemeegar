@@ -12,7 +12,10 @@
 - 🔭 I’m currently working on **[mention project or interest area]**
 - 🌱 I’m currently learning **Advanced SQL | Deep Learning | Big Data Tools**
 - 👯 I’m open to collaborating on **Data Analytics, Dashboards, and ML projects**
-- 📫 Reach me: **[aboluwadegbenga@gmail.com]** | [LinkedIn](https://linkedin.com/in/gbemeegar)
+- 📫 Reach me: **aboluwadegbenga@gmail.com** | [LinkedIn](https://linkedin.com/in/gbemeegar)
+- <a href="https://twitter.com/gbemeegar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gbemeegar" height="30" width="40" /></a>
+<a href="https://medium.com/@gbemeegar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gbemeegar" height="30" width="40" /></a>
+</p>
 
 ---
 
