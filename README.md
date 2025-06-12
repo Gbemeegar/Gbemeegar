@@ -2,16 +2,16 @@
 <h3 align="center">💡 Data Analyst | 📊 Data Scientist | 📈 Storytelling with Data</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=color=00FFAB&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions;Data+is+the+New+Oil;Let's+Analyze+and+Visualize+Together!" alt="Data is the new oil" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=color=ccb50a&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions;Data+is+the+New+Oil;Let's+Analyze+and+Visualize+Together!" alt="Data is the new oil" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[mention project or Health data]**
+- 🔭 I’m currently working on **Financial and Business Data Analysis**
 - 🌱 I’m currently learning **Advanced SQL | Deep Learning | Big Data Tools**
-- 👯 I’m open to collaborating on **Data Analytics, Dashboards, and ML projects**
+- 👯 I’m open to collaborating on **Data Analytics, Data Engineering, and ML projects**
 - 📫 Reach me: **aboluwadegbenga@gmail.com** | [LinkedIn](https://linkedin.com/in/gbemeegar)
 
 ---
@@ -37,8 +37,8 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Walmart Sales Analysis](https://github.com/Gbemeegar/Walmart_Sales) | Cleaned and Analysed Walmart sales data and answered some business questions  | Python, Postgresq, Power BI |
-| [Another Project](#) | Maybe a dashboard or ML model. | SQL, Tableau, Scikit-learn |
+| [Walmart Sales Analysis](https://github.com/Gbemeegar/Walmart_Sales) | Cleaned and Analysed Walmart sales data, identified actionable insights and answered some business questions  | Python, Postgresql, Power BI |
+| Customer Attrition Analysis (#) | Created a dashboard to analyze customer attrition data, understand attrition reasons and make necessary recommendations  | SQL, Tableau, Dashboard |
 
 ---
 
