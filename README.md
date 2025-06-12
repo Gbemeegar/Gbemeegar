@@ -2,20 +2,17 @@
 <h3 align="center">💡 Data Analyst | 📊 Data Scientist | 📈 Storytelling with Data</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=color=00FFAB&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions;Data+is+the+New+Oil;Let's+Analyze+and+Visualize+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=color=00FFAB&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions;Data+is+the+New+Oil;Let's+Analyze+and+Visualize+Together!" alt="Data is the new oil" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[mention project or interest area]**
+- 🔭 I’m currently working on **[mention project or Health data]**
 - 🌱 I’m currently learning **Advanced SQL | Deep Learning | Big Data Tools**
 - 👯 I’m open to collaborating on **Data Analytics, Dashboards, and ML projects**
 - 📫 Reach me: **aboluwadegbenga@gmail.com** | [LinkedIn](https://linkedin.com/in/gbemeegar)
-- <a href="https://twitter.com/gbemeegar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gbemeegar" height="30" width="40" /></a>
-<a href="https://medium.com/@gbemeegar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gbemeegar" height="30" width="40" /></a>
-</p>
 
 ---
 
@@ -23,7 +20,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
