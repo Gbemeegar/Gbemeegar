@@ -1,3 +1,70 @@
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">💡 Data Analyst | 📊 Data Scientist | 📈 Storytelling with Data</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions;Data+is+the+New+Oil;Let's+Analyze+and+Visualize+Together!" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on **[mention project or interest area]**
+- 🌱 I’m currently learning **Advanced SQL | Deep Learning | Big Data Tools**
+- 👯 I’m open to collaborating on **Data Analytics, Dashboards, and ML projects**
+- 📫 Reach me: **[your email]** | [LinkedIn](https://linkedin.com/in/yourprofile)
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourgithubusername&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+### ✨ Featured Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Project Name](#) | Short description of what it does. | Python, Pandas, Power BI |
+| [Another Project](#) | Maybe a dashboard or ML model. | SQL, Tableau, Scikit-learn |
+
+---
+
+### 🎯 Fun Facts
+
+- 🎧 Music helps me code better.
+- 🧠 I believe in **lifelong learning**.
+- 📚 I love reading articles on data ethics and storytelling.
+
+---
+
+### 🤝 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com)
+
+---
+
+<p align="center">Thanks for visiting! ⭐️</p>
+
+
 ### Hi there 👋
 
 <!--
