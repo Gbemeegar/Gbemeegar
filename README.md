@@ -54,7 +54,7 @@
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com)-->
 <p> 
 <a href="https://linkedin.com/in/gbemeegar" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="https://linkedin.com/in/gbemeegar" height="30" width="40" /></a><a href="https://x.com/gbemeegar" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/x-2.svg" alt="X" height="30" width="40" /></a>
-<a href="https://medium.com/@gbemeegar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gbemeegar" height="30" width="40" /></a>
+<a href="https://medium.com/@gbemeegar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gbemeegar" height="30" width="40" /></a> <a href="mailto:aboluwadegbenga@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/13657/email.svg" alt="aboluwadegbenga@gmail.com" height="30" width="40" /></a>
 </p>
 
 ---
