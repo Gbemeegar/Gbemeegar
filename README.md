@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Financial and Business Data Analysis**
 - 🌱 I’m currently learning **Advanced SQL | Deep Learning | Big Data Tools**
 - 👯 I’m open to collaborating on **Data Analytics, Data Engineering, and ML projects**
-- 📫 Reach me: **aboluwadegbenga@gmail.com** | [LinkedIn](https://linkedin.com/in/gbemeegar)
+- 📫 Reach me: **[Email me](mailto:aboluwadegbenga@gmail.com)** | [LinkedIn](https://linkedin.com/in/gbemeegar)
 
 ---
 
