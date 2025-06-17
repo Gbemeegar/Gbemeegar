@@ -1,3 +1,5 @@
+![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 <h1 align="center"><strong style="font-size: 42px; color:#00BFFF;">Hi 👋, I'm Gbenga Aboluwade</h1>
 <h3 align="center">💡 Data Analyst | 📊 Data Scientist | 📈 Storytelling with Data</h3>
 
