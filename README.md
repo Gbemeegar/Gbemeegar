@@ -1,6 +1,7 @@
 ![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-<p  align="center"><strong style="font-size: 42px; color:#00BFFF;">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="python" width="40" height="40"/></p>\\ 
+<p  align="center"><strong style="font-size: 42px; color:#00BFFF;">Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="python" width="40" height="40"/> I'm Gbenga Aboluwade</p>\\ 
   <a href="#" target="_blank" rel="noreferrer">
+    
 <h1  align="center"><strong style="font-size: 42px; color:#00BFFF;">Hi  👋, I'm Gbenga Aboluwade</h1> <a href="#" target="_blank" rel="noreferrer"> 
 <h3 align="center">💡 Data Analyst | 📊 Data Scientist | 📈 Storytelling with Data</h3>
 
