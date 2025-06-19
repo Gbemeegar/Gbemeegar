@@ -41,7 +41,7 @@
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Walmart Sales Analysis](https://github.com/Gbemeegar/Walmart_Sales) | Cleaned and Analysed Walmart sales data, identified actionable insights and answered some business questions  | Python, Postgresql, Power BI |
-| Customer Attrition Analysis (#) | Created a dashboard to analyze customer attrition data, understand attrition reasons and make necessary recommendations  | SQL, Tableau, Dashboard |
+| [Customer Attrition Analysis](https://public.tableau.com/app/profile/gbenga.aboluwade/viz/DataselAttritionAnalysisDashboard/DatabelDashboard) | Created a dashboard to analyze customer attrition data, understand attrition reasons and make necessary recommendations  | SQL, Tableau, Dashboard |
 
 ---
 
